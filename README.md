@@ -9,7 +9,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
 ## 👁️ Vista Previa
-![Preview](https://robermejia.com/img/portfolio/large/project-10/1.png)
+![Preview](https://robermejia.com/img/portfolio/large/project-11/1.png?v=1794369761142)
 
 ## 📝 Descripción
 Aplicación web de e-commerce desarrollada con **React 19** que permite a los usuarios navegar por un catálogo de productos, filtrar por categorías, gestionar un carrito de compras y finalizar pedidos con persistencia en **Firebase Firestore**.
